@@ -19,8 +19,8 @@
 </h1>
 
 
-- 🌱 A passionate Self-taught Front-end developer  
-- 🔒 Playing **CTFs** in spare time  
+- 🌱 A passionate Self-taught Software developer  
+- 🔒 Solving Leetcode questions in spare time  
 - 📚 Currently learning **Web Development**  
 - 🌐 Personal website → [Portfolio](https://swastik-yadav.github.io/MyPortfolio/)  
 - 💼 **I’m currently open for Internships or new job opportunities!**
